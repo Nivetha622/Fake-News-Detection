@@ -1,10 +1,3 @@
 # Fake-News-Detection
-Fake News Detection
+Fake News Detection System by leveraging NLP,RL and Blockchain Technology
 
-JDK DOWNLOAD LINK
-https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe (sha256)
-
-DOWNLOAD NETBEANS THEN DOWNLOAD JDK USING THE ABOVE LINK
-
-THEN DOWNLOAD THE PROJECT ZIP FILE EXTRACT IT
-THEN OPEN IN NETBEANS AND RUN
